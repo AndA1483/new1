@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from './Header'; // Import Header component ที่เราสร้างไว้
+import Header from './Header'; 
 import Main from './Main';
 import './Header.css';
 
